@@ -10,3 +10,7 @@ cd crawler-github
 npm install
 user=${email_name} pass=${emial_pass} npm run start
 ```
+
+#### 邮箱配置
+
+请在util.js中配置邮箱

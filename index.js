@@ -13,3 +13,4 @@ var start = function() {
 
 
 setInterval(start, 24 * 60 * 60 * 1000);
+// start();
